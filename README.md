@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Sou o Marcos, dev Flutter/Dart e estudante de Análise e desenvolvimento de sistemas no IFSP. Nos meus repositórios fixados , você encontrará amostras 🔭 das minhas habilidades em aplicações web/mobile em Flutter/Dart e Angular/Ionic.
 <!--
 **LeibMar/LeibMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
